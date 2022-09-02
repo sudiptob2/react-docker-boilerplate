@@ -36,7 +36,7 @@ docker compose exec react npm install <pacakge-name>
 To run any NPM command
 
 ```bash
-docker-compose exec react <npm-command>
+docker compose exec react <npm-command>
 ```
 
 stop the containers
