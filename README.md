@@ -42,7 +42,7 @@ docker-compose exec react <npm-command>
 stop the containers
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 # For Any support
