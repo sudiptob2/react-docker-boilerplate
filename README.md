@@ -1,4 +1,4 @@
-# React Docker Boilerplate
+# React Docker Boilerplate - Testing Branch
 This is a react + docker boilerplate which solves `node_modules` sync related issues while developing React application with `docker`. A detailed explanation can be found [here](https://medium.com/@sudiptob2/properly-setting-up-react-development-environment-using-docker-a2de46464d0b).
 
 ![banner](.temp/banner.png)
